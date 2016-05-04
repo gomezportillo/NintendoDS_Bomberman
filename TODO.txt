@@ -1,0 +1,19 @@
+RAQUEL - Como no has podido venir estos días, andarás más perdida en el código que los demás, así que vas a encargarte del diseño gráfico del juego: vas a hacer el mapa definitivo del juego. Puedes basarte en los que encuentres por internet, o inventas uno, y va a tener 3 colores: el verde para el fondo, un gris oscuro para las zonas que no se pueden romper y un gris claro para las que sí. 
+Recuerda que tienes que hacerlo con el modo indexado, luego cambiar la paleta de colores a la defaulf y reordenar los colores. Para que Daviz sepa cómo hacer su parte, vas a poner como primer color el rosa, luego verde, gris claro y gris oscuro. No hace falta que hagas los dos; solo haz el colmap.bmp y remítemelo a mi, yo haré el otro y le aplicaré los dos scripts, metiéndolos en el proyecto. Trust in R.
+http://arco.esi.uclm.es/~mariaj.santofimia/puff/mapaColisiones.ogv
+
+DAVID - Como sabes más o menos cómo funciona el método para cambiar las teselas, para ti serán los ifs de los que estuvimos hablando cuando quedamos. Recuerda que tiene que reventar solo las teselas grises claritas, que en el mapa de colisiones, según Raquel, serán el número 2, no las grises oscuras, el ńumero 3. Trust in D.
+
+MIRIAM - Para ti será la parte del audio: da igual el audio, no te molestes en buscar una canción perfecta y transformarla a .it, descárgate una de los enlaces que te dan en la primera página que te he dejado, ya en .it, y luego haz todo lo referente para que cuando el juego empieze, la música suene. Si te animas, también puedes definir un método que llame al sonido de una explosión para cuando reviente la bomba. Los enlaces de abajo son los que más interesantes vi ayer en el laboratorio, te los mando por si te sirven de algo. Aunque parezca mucho, no lo es. Trust in M.
+http://www.taringa.net/posts/hazlo-tu-mismo/13597452/Creando-tu-juego-de-NDS-Tuto-7-Musica-para-mis-oidos.html
+http://nds.scenebeta.com/tutorial/nflib-b-sico-d-2
+http://blogs.gamefilia.com/knightfox/30-08-2009/25970/nightfoxs-lib-para-libnds-sonidos
+
+PEDROMA - Para mi los timers, que cuando pongas la bomba cambie la tesela a la de la bomba, espere 3 segundos para detonarla, tras ello aparezca la explosión y acabe la parte concerniente en verde, y además que si el jugador toca fuego el juego acabe. Trabajaré codo con codo con David. Perdonad por no haber adelantado nada estos días, pero se me formateó el ordenador y lo perdí todo, y me he dedicado a reinstalar Ubuntu y devkitPro. 
+
+CHRISTOPHER - Ayuda a Miriam y a David en todo lo que te pidan. Trust in C.
+
+
+Sentíos libres de hacer los cambios que queráis, pero cuando lo subais a dropbox no sobreescribáis el archivo que haya; cambiad el nombre al vuestro. Preguntadme cualquier duda de código o funcionamiento que tengáis. 
+
+
